@@ -1,5 +1,6 @@
 package day1;
 
-public class Variable {
+public class Variable 
+{
 
 }
